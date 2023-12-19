@@ -1,9 +1,9 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>@groupId@</groupId>
-  <artifactId>@artifactId@</artifactId>
-  <version>@version@</version>
-  <packaging>jar</packaging>
+  <groupId>/home/nadakudhiti/sample_project/sample-java-project/pom.xml</groupId>
+  <artifactId>sample_javaProject</artifactId>
+  <version>1.0.0</version>
+  <packaging>war</packaging>
 
   <name>@ant.project.name@</name>
   <description>@description@</description>
